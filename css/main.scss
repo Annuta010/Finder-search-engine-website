@@ -1,0 +1,19 @@
+.icons {
+    height: 56px;
+    display: flex;
+    margin: 28px -46px;
+    img {
+        height: 30px;
+        margin: 6px 0px;
+    }
+    a {
+        display: flex;
+        flex-direction: column;
+        color: $sec_fc;
+        padding: 0px 46px;
+        margin: 6px 0px;
+    }
+}
+.icons-list {
+    display: flex;
+}

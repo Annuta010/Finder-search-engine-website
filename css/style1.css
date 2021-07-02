@@ -1,0 +1,10 @@
+.f {
+    display: flex;
+    width: 700px;
+    justify-content: space-between;
+}
+.g {
+    width: 20px;
+    height: 50px;
+    background-color: red;
+}
